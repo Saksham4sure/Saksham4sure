@@ -8,7 +8,7 @@
 
 ### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,ae" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,ae,GSAP" />
 </p>
 
 ---
