@@ -21,7 +21,7 @@ Check out on 👉 [**Repositories**](https://github.com/Saksham4sure?tab=reposit
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham4sure&layout=compact&theme=radical&hide_border=true" height="260" />
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?
 </p>
 
 ---
@@ -35,5 +35,8 @@ Check out on 👉 [**Repositories**](https://github.com/Saksham4sure?tab=reposit
 
 ---
 
-<h3 align="center">💫 “Code. Create. Inspire.”</h3>
+<h3 align="center">💫 Learning and Building.</h3>
 
+username=Saksham4sure&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
