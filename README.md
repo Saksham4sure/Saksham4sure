@@ -1,5 +1,5 @@
 <p align="center">
-  <strong style="font-size:56px; color:#6F6F6F;">Saksham Shrestha</strong><br>
+  <h1 color:#6F6F6F;">Saksham Shrestha</h1><br>
   <span style="color:#6F6F6F;">Frontend Developer • Web Designer</span>
 </p>
 
