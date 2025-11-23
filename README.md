@@ -1,8 +1,8 @@
 <p align="center">
-  <span style="font-size:40px; font-weight:bold; color:#6F6F6F;">Saksham Shrestha</span><br>
-  <span style="font-size:20px; color:#6F6F6F;">Frontend Developer</span>
+  <img src="https://via.placeholder.com/600x100?text=Saksham+Shrestha" alt="Saksham Shrestha" />
+  <br>
+  <span>Frontend Developer • Web Designer</span>
 </p>
-
 ---
 
 # ⚙️ Tech Stack
