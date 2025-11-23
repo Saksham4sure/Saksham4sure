@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://via.placeholder.com/600x100?text=Saksham+Shrestha" alt="Saksham Shrestha" />
-  <br>
-  <span>Frontend Developer • Web Designer</span>
-</p>
+<h1 align="center">Saksham Shrestha</h1>
+<p align="center">Frontend Developer • Web Designer</p>
+
 ---
 
 # ⚙️ Tech Stack
