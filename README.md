@@ -1,7 +1,6 @@
 <p align="center">
-  <h2>Saksham Shrestha</h2>
-  <br/>
-  <h4>Frontend Developer</h4>
+  <strong style="font-size:28px; color:#6F6F6F;">Saksham Shrestha</strong><br>
+  <span style="color:#6F6F6F;">Frontend Developer • Web Designer</span>
 </p>
 
 ---
