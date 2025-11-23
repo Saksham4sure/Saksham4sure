@@ -1,5 +1,5 @@
 <p align="center">
-  <strong color:#6F6F6F;">Saksham Shrestha</strong><br>
+  Saksham Shrestha</strong
   <span style="color:#6F6F6F;">Frontend Developer • Web Designer</span>
 </p>
 
