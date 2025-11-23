@@ -28,12 +28,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Saksham4sure&show_icons=true&theme=graywhite&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham4sure&layout=compact&theme=graywhite&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=Saksham4sure&theme=graywhite&hide_border=true" />
 </p>
 
 ---
