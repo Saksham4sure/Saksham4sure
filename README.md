@@ -1,6 +1,5 @@
 <p align="center">
   <h1 align="center">Saksham Shrestha</h1>
-  <br/>
   <p align="center">Frontend Developer</p>
 </p>
 
