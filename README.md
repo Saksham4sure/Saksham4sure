@@ -1,7 +1,8 @@
-<div align="center">
+<p align="center">
   <h1 align="center">Saksham Shrestha</h1>
-<p align="center">Frontend Developer • Web Designer</p>
-</div>
+  <br/>
+  <p align="center">Frontend Developer</p>
+</p>
 
 ---
 
