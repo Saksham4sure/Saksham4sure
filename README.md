@@ -1,5 +1,5 @@
 <p align="center">
-  <strong style="font-size:40px; color:#6F6F6F;">Saksham Shrestha</strong><br>
+  <strong style="font-size:56px; color:#6F6F6F;">Saksham Shrestha</strong><br>
   <span style="color:#6F6F6F;">Frontend Developer • Web Designer</span>
 </p>
 
@@ -32,21 +32,12 @@
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saksham4sure&theme=gray&hide_border=true&radius=5" />
-</p>
-
----
-
-
 # 🚀 Projects
 
+- **[Portfolio Website](https://sakshamstha.com.np)** - Visit portfolio for more projects
 - **[Rentora](https://github.com/Saksham4sure/Rentora)** - Frontend resort booking
 - **[Krypo](https://github.com/Saksham4sure/Krypo)** - Frontend resort booking
 - **[Aiyanna](https://github.com/Saksham4sure/aiyanna)** - Minimal ui project
-- **[Portfolio Website](https://sakshamstha.com.np)** - Visit for more projects
 
 ---
 
