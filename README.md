@@ -1,5 +1,5 @@
 <p align="center">
-  <strong style="font-size:28px; color:#6F6F6F;">Saksham Shrestha</strong><br>
+  <strong style="font-size:40px; color:#6F6F6F;">Saksham Shrestha</strong><br>
   <span style="color:#6F6F6F;">Frontend Developer • Web Designer</span>
 </p>
 
@@ -40,37 +40,13 @@
 
 ---
 
-# 🚀 Highlighted Projects
 
-### **Futsal Management System (C Project)**
-Modern, menu-driven academic project.  
-<p>
-  <img width="300" src="https://via.placeholder.com/600x350/eeeeee/808080?text=Futsal+Management+System+Preview" />
-</p>
+# 🚀 Projects
 
----
-
-### **Rentora**
-Minimal booking UI for resorts & apartments.  
-<p>
-  <img width="300" src="https://via.placeholder.com/600x350/eeeeee/808080?text=Rentora+UI+Preview" />
-</p>
-
----
-
-### **Finance Dashboard UI**
-Responsive, clean dashboard interface.  
-<p>
-  <img width="300" src="https://via.placeholder.com/600x350/eeeeee/808080?text=Finance+Dashboard+Preview" />
-</p>
-
----
-
-### **Portfolio Website**
-Dark minimal portfolio with smooth transitions.  
-<p>
-  <img width="300" src="https://via.placeholder.com/600x350/eeeeee/808080?text=Portfolio+Preview" />
-</p>
+- **[Rentora](https://github.com/Saksham4sure/Rentora)** - Frontend resort booking
+- **[Krypo](https://github.com/Saksham4sure/Krypo)** - Frontend resort booking
+- **[Aiyanna](https://github.com/Saksham4sure/aiyanna)** - Minimal ui project
+- **[Portfolio Website](https://sakshamstha.com.np)** - Visit for more projects
 
 ---
 
