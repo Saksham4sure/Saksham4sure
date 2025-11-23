@@ -1,16 +1,8 @@
-<!-- ──────────────────────────────── -->
-<!--       MINIMAL GRAY BANNER       -->
-<!-- ──────────────────────────────── -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&color=6F6F6F&center=true&vCenter=true&width=600&lines=Saksham+Shrestha;Frontend+Developer;Web+Designer;Clean+Minimal+UI+Enthusiast" />
+  <h2>Saksham Shrestha</h2>
+  <br/>
+  <h4>Frontend Developer</h4>
 </p>
-
----
-
-# 🧑‍💻 About Me
-Frontend developer focused on clean interfaces, smooth animations, and minimal, elegant designs.  
-Currently leveling up JavaScript, React, and professional UI/UX skills.
 
 ---
 
@@ -18,27 +10,22 @@ Currently leveling up JavaScript, React, and professional UI/UX skills.
 
 ### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,gsap&theme=light" />
 </p>
 
-### **Design & Tools**
+### **Graphics**
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=light" />
+  <img src="https://skillicons.dev/icons?i=ps,ae&theme=light" />
 </p>
 
 ### **Other**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux&theme=light" />
 </p>
 
 ---
 
-# 🛠 Tools I Use Daily
-`VS Code` · `Chrome DevTools` · `Figma` · `Git` · `React` · `Tailwind` · `Linux`
-
----
-
-# 📊 GitHub Stats (Gray Minimal)
+# 📊 GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Saksham4sure&show_icons=true&theme=graywhite&hide_border=true" />
@@ -51,7 +38,7 @@ Currently leveling up JavaScript, React, and professional UI/UX skills.
 
 ---
 
-# 📈 Contribution Graph (Minimal Gray Theme)
+# 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saksham4sure&theme=gray&hide_border=true&radius=5" />
@@ -101,10 +88,9 @@ Dark minimal portfolio with smooth transitions.
 
 ---
 
-# 🤝 Connect
-GitHub is my main hub.  
-You can add: Instagram · LinkedIn · Portfolio (optional)
+# 🤝 Connect 
+You can add: Instagram · LinkedIn · Portfolio
 
 ---
 
-<p align="center">⚪ Keep Building — Keep Improving ⚪</p>
+<p align="center">⚪ Learning, Building, Improving ⚪</p>
