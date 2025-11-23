@@ -1,6 +1,6 @@
 <p align="center">
-  Saksham Shrestha</strong
-  <span style="color:#6F6F6F;">Frontend Developer • Web Designer</span>
+  # Saksham Shrestha
+  <span style="color:#6F6F6F;">Frontend Developer</span>
 </p>
 
 ---
