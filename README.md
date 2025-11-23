@@ -1,42 +1,110 @@
-<h1 align="center"><span style="color:#00df9a;">Saksham Shrestha</span></h1>
+<!-- ──────────────────────────────── -->
+<!--       MINIMAL GRAY BANNER       -->
+<!-- ──────────────────────────────── -->
 
 <p align="center">
-  <b>Frontend Developer • Web Designer</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&color=6F6F6F&center=true&vCenter=true&width=600&lines=Saksham+Shrestha;Frontend+Developer;Web+Designer;Clean+Minimal+UI+Enthusiast" />
 </p>
 
 ---
 
-### ⚙️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,ae,GSAP" />
+# 🧑‍💻 About Me
+Frontend developer focused on clean interfaces, smooth animations, and minimal, elegant designs.  
+Currently leveling up JavaScript, React, and professional UI/UX skills.
+
+---
+
+# ⚙️ Tech Stack
+
+### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=light" />
+</p>
+
+### **Design & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=light" />
+</p>
+
+### **Other**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github&theme=light" />
 </p>
 
 ---
 
-### 🧩 Projects
-✨ Some of my works: <br />
-Check out on 👉 [**Repositories**](https://github.com/Saksham4sure?tab=repositories)
+# 🛠 Tools I Use Daily
+`VS Code` · `Chrome DevTools` · `Figma` · `Git` · `React` · `Tailwind` · `Linux`
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats (Gray Minimal)
+
 <p align="center">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Saksham4sure&show_icons=true&theme=graywhite&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham4sure&layout=compact&theme=graywhite&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://streak-stats.demolab.com?user=Saksham4sure&theme=graywhite&hide_border=true" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+# 📈 Contribution Graph (Minimal Gray Theme)
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/sakshamjsdev" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://www.instagram.com/aintwiz" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-  <a href="mailto:sakshamorig123@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saksham4sure&theme=gray&hide_border=true&radius=5" />
 </p>
 
 ---
 
-<h3 align="center">💫 Learning and Building.</h3>
+# 🚀 Highlighted Projects
 
-username=Saksham4sure&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### **Futsal Management System (C Project)**
+Modern, menu-driven academic project.  
+<p>
+  <img width="300" src="https://via.placeholder.com/600x350/eeeeee/808080?text=Futsal+Management+System+Preview" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### **Rentora**
+Minimal booking UI for resorts & apartments.  
+<p>
+  <img width="300" src="https://via.placeholder.com/600x350/eeeeee/808080?text=Rentora+UI+Preview" />
+</p>
+
+---
+
+### **Finance Dashboard UI**
+Responsive, clean dashboard interface.  
+<p>
+  <img width="300" src="https://via.placeholder.com/600x350/eeeeee/808080?text=Finance+Dashboard+Preview" />
+</p>
+
+---
+
+### **Portfolio Website**
+Dark minimal portfolio with smooth transitions.  
+<p>
+  <img width="300" src="https://via.placeholder.com/600x350/eeeeee/808080?text=Portfolio+Preview" />
+</p>
+
+---
+
+# 🧭 Current Focus
+- Real-world JavaScript projects  
+- React + UI animations  
+- Minimal UI/UX design  
+- Learning Node.js  
+
+---
+
+# 🤝 Connect
+GitHub is my main hub.  
+You can add: Instagram · LinkedIn · Portfolio (optional)
+
+---
+
+<p align="center">⚪ Keep Building — Keep Improving ⚪</p>
