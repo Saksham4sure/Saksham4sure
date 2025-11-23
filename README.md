@@ -1,5 +1,5 @@
 <h1 align="center">Saksham Shrestha</h1>
-<h3 align="center">Frontend Developer • Web Designer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 ---
 
