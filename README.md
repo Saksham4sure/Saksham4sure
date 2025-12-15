@@ -34,11 +34,11 @@
 
 - **[Portfolio Website](https://sakshamstha.com.np)** - Visit portfolio for more projects
 - **[Velaro](https://github.com/Saksham4sure/Velaro)** - Frontend car showcase <br/>
-     https://velaro-cars.vercel.app<br/>
+         https://velaro-cars.vercel.app <br/>
 - **[Rentora](https://github.com/Saksham4sure/Rentora)** - Frontend resort booking <br/>
-     https://rentoraa.vercel.app<br/>
+         https://rentoraa.vercel.app <br/>
 - **[Krypo](https://github.com/Saksham4sure/Krypo)** - Frontend financial website <br/>
-     https://krypo.vercel.app<br/>
+         https://krypo.vercel.app <br/>
 - **[Aiyanna](https://github.com/Saksham4sure/aiyanna)** - Minimal ui project <br/>
 
 ---
