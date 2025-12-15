@@ -33,8 +33,12 @@
 # 🚀 Projects
 
 - **[Portfolio Website](https://sakshamstha.com.np)** - Visit portfolio for more projects
+- **[Velaro](https://github.com/Saksham4sure/Velaro)** - Frontend car showcase
+    **[https://velaro-cars.vercel.app]
 - **[Rentora](https://github.com/Saksham4sure/Rentora)** - Frontend resort booking
-- **[Krypo](https://github.com/Saksham4sure/Krypo)** - Frontend resort booking
+    **[https://rentoraa.vercel.app]
+- **[Krypo](https://github.com/Saksham4sure/Krypo)** - Frontend financial website
+    **[https://krypo.vercel.app]
 - **[Aiyanna](https://github.com/Saksham4sure/aiyanna)** - Minimal ui project
 
 ---
