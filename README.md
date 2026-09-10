@@ -19,12 +19,12 @@ Passionate web developer from Lalitpur, Nepal, dedicated to crafting seamless us
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saksham4sure&show_icons=true&hide_border=true&theme=transparent" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham4sure&layout=compact&hide_border=true&theme=transparent" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Saksham4sure&show_icons=true&theme=transparent&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Saksham4sure&layout=compact&theme=transparent&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Saksham4sure&hide_border=true&theme=transparent" />
+  <img src="https://streak-stats.demolab.com/?user=Saksham4sure&theme=transparent&hide_border=true" />
 </p>
 
 ---
