@@ -1,24 +1,30 @@
-### Hello there 👋
+```
+Saksham@github
+----------------------
+OS: Developer Edition
+Location: Lalitpur, Nepal
+Title: Web Developer
+Role: "Frontend Developer"
+Learning: "Backend Development"
+Languages: React | Express | Node.js | Tailwind | Javascript
+Learning: Exploring the latest trends in web development frameworks frameworks and enhancing my skills.
+Ask-About: JavaScript frameworks, web performance optimization, or best practices in responsive web design.
+Uptime: Always coding ☕
+```
 
-#### Web Developer by day ☼ and Open Source Contributor by night ☾
+## 💡 About
 
-Web Developer, [](https://www.sakshamstha.com.np/);<br>
-Based in Lalitpur, Nepal;<br>
+Passionate web developer from Lalitpur, Nepal, dedicated to crafting seamless user experiences and innovative solutions. I thrive on turning complex challenges into elegant code and love collaborating on exciting projects.
 
-- ⚙️ I use daily: `.react, .express, .nodejs, .tailwind, .javascript`
-- 🌍 I'm mostly active within the **Javascript Community**
-- 💬 `ping` me about **JavaScript frameworks, web performance optimization, or best practices in responsive web design.**
-- 📫 How to reach me: [sakshamorig123@gmail.com](mailto:sakshamorig123@gmail.com)
-- ⚡ Fun fact: I came for frontend and somehow ended up learning backend too.
+## 📊 Stats
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saksham4sure&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-const saksham = { 
-    role: "Frontend Developer", 
-    learning: "Backend Development", 
-    frontend: ["React", "JavaScript", "Tailwind CSS"], 
-    animation: ["GSAP", "Framer Motion", "Lenis"], 
-    backend: ["Node.js", "Express.js"], 
-    databases: ["MongoDB", "PostgreSQL"], 
-    tools: ["Git", "GitHub", "Linux"] 
-};
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saksham4sure&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+## 📫 Connect
+
+- 🌐 [Website](https://www.sakshamstha.com.np/)
+- 📧 [Email](mailto:sakshamorig123@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/sakshamjsdev)
+- 🐙 [GitHub](https://github.com/saksham4sure)
