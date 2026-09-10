@@ -18,16 +18,15 @@ Passionate web developer from Lalitpur, Nepal, dedicated to crafting seamless us
 
 ## 📊 Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Saksham4sure&show_icons=true&theme=transparent&hide_border=true" height="180" />
+<p>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Saksham4sure&layout=compact&theme=transparent&hide_border=true" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Saksham4sure&theme=transparent&hide_border=true" />
-</p>
-
 ---
+
+## ⚡ GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Saksham4sure)](https://git.io/streak-stats)
 
 ## 📫 Contact
 
