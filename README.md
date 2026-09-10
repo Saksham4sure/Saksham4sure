@@ -1,49 +1,24 @@
-```bash
-$ whoami
-Saksham Shrestha
+### Hello there 👋
 
-$ cat about.txt
-Passionate web developer from Lalitpur, Nepal, dedicated to crafting seamless user experiences and innovative solutions. I thrive on turning complex challenges into elegant code and love collaborating on exciting projects.
+#### Web Developer by day ☼ and Open Source Contributor by night ☾
 
-$ pwd
-Lalitpur, Nepal @ 
+Web Developer, [](https://www.sakshamstha.com.np/);<br>
+Based in Lalitpur, Nepal;<br>
 
-$ ls skills/
-React | Express | Node.js | Tailwind | Javascript
-
-$ cat learning.txt
-Exploring the latest trends in front-end frameworks and enhancing my skills in responsive design.
-
-$ cat interests.txt
-JavaScript frameworks, web performance optimization, or best practices in responsive web design.
-
-$ fortune
-I once built a fully functional website in under 24 hours just for fun. Let's just say, coffee was my best friend that day!
-```
+- ⚙️ I use daily: `.react, .express, .nodejs, .tailwind, .javascript`
+- 🌍 I'm mostly active within the **Javascript Community**
+- 💬 `ping` me about **JavaScript frameworks, web performance optimization, or best practices in responsive web design.**
+- 📫 How to reach me: [sakshamorig123@gmail.com](mailto:sakshamorig123@gmail.com)
+- ⚡ Fun fact: I came for frontend and somehow ended up learning backend too.
 
 ---
 
-## 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saksham4sure&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saksham4sure&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-
----
-
-## 📫 Contact
-
-- 🌐 [Website](https://www.sakshamstha.com.np/)
-- 📧 [Email](mailto:sakshamorig123@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/sakshamjsdev)
-- 🐙 [GitHub](https://github.com/saksham4sure)
-
----
-
----
-
----
-
-```bash
-$ echo "Thanks for visiting! ⭐"
-```
+const saksham = { 
+    role: "Frontend Developer", 
+    learning: "Backend Development", 
+    frontend: ["React", "JavaScript", "Tailwind CSS"], 
+    animation: ["GSAP", "Framer Motion", "Lenis"], 
+    backend: ["Node.js", "Express.js"], 
+    databases: ["MongoDB", "PostgreSQL"], 
+    tools: ["Git", "GitHub", "Linux"] 
+};
