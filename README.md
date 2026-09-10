@@ -18,13 +18,19 @@ Passionate web developer from Lalitpur, Nepal, dedicated to crafting seamless us
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saksham4sure&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Saksham4sure&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saksham4sure&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Saksham4sure&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
-## 📫 Connect
+---
+
+## 📫 Contact
 
 - 🌐 [Website](https://www.sakshamstha.com.np/)
 - 📧 [Email](mailto:sakshamorig123@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/sakshamjsdev)
-- 🐙 [GitHub](https://github.com/saksham4sure)
+- 🐙 [GitHub](https://github.com/https://github.com/Saksham4sure)
+
+```bash
+$ echo "Thanks for visiting! ⭐"
+```
