@@ -1,59 +1,49 @@
-<h1 align="center">Saksham Shrestha</h1>
-<h3 align="center">Frontend Developer</h3>
+```bash
+$ whoami
+Saksham Shrestha
+
+$ cat about.txt
+Passionate web developer from Lalitpur, Nepal, dedicated to crafting seamless user experiences and innovative solutions. I thrive on turning complex challenges into elegant code and love collaborating on exciting projects.
+
+$ pwd
+Lalitpur, Nepal @ 
+
+$ ls skills/
+React | Express | Node.js | Tailwind | Javascript
+
+$ cat learning.txt
+Exploring the latest trends in front-end frameworks and enhancing my skills in responsive design.
+
+$ cat interests.txt
+JavaScript frameworks, web performance optimization, or best practices in responsive web design.
+
+$ fortune
+I once built a fully functional website in under 24 hours just for fun. Let's just say, coffee was my best friend that day!
+```
 
 ---
 
-# ⚙️ Tech Stack
+## 📊 Stats
 
-### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,gsap&theme=light" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saksham4sure&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-### **Graphics**
-<p>
-  <img src="https://skillicons.dev/icons?i=ps,ae&theme=light" />
-</p>
-
-### **Other**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux&theme=light" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saksham4sure&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
 ---
 
-# 📊 GitHub Stats
+## 📫 Contact
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham4sure&layout=compact&theme=graywhite&hide_border=true" />
-</p>
-
----
-
-# 🚀 Projects
-
-- **[Portfolio Website](https://sakshamstha.com.np)** - Visit portfolio for more projects
-- **[Velaro](https://github.com/Saksham4sure/Velaro)** - Frontend car showcase <br/>
-         https://velaro-cars.vercel.app <br/>
-- **[Rentora](https://github.com/Saksham4sure/Rentora)** - Frontend resort booking <br/>
-         https://rentoraa.vercel.app <br/>
-- **[Krypo](https://github.com/Saksham4sure/Krypo)** - Frontend financial website <br/>
-         https://krypo.vercel.app <br/>
-- **[Aiyanna](https://github.com/Saksham4sure/aiyanna)** - Minimal ui project <br/>
+- 🌐 [Website](https://www.sakshamstha.com.np/)
+- 📧 [Email](mailto:sakshamorig123@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/sakshamjsdev)
+- 🐙 [GitHub](https://github.com/saksham4sure)
 
 ---
 
-# 🧭 Current Focus
-- Real-world JavaScript projects  
-- React + UI animations  
-- Minimal UI/UX design  
-- Learning Node.js  
+---
 
 ---
 
-# 🤝 Connect 
-You can add: Instagram · LinkedIn · Portfolio
-
----
-
-<p align="center">⚪ Learning, Building, Improving ⚪</p>
+```bash
+$ echo "Thanks for visiting! ⭐"
+```
