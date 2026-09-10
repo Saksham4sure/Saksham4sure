@@ -18,9 +18,14 @@ Passionate web developer from Lalitpur, Nepal, dedicated to crafting seamless us
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saksham4sure&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saksham4sure&show_icons=true&hide_border=true&theme=transparent" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham4sure&layout=compact&hide_border=true&theme=transparent" height="180"/>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Saksham4sure)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Saksham4sure&hide_border=true&theme=transparent" />
+</p>
 
 ---
 
