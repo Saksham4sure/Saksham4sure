@@ -5,7 +5,7 @@ OS: Developer Edition
 Location: Lalitpur, Nepal
 Title: Web Developer
 Role: "Frontend Developer"
-Learning: "Backend Development"
+Focus: "Backend Development"
 Languages: React | Express | Node.js | Tailwind | Javascript
 Learning: Exploring the latest trends in web development frameworks frameworks and enhancing my skills.
 Ask-About: JavaScript frameworks, web performance optimization, or best practices in responsive web design.
